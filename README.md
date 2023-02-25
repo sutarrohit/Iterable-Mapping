@@ -1,9 +1,9 @@
-# Iterable-Mapping.
+# Iterable-Mapping
 
 * This implementation of Solidity Iterable Mapping is a combination of arrays and mappings to provide the desired functionality.</br>
 * The Iterable-Mapping supports adding and removing key-value pairs, looking up the value associated with a given key, and iterating over the key-value pairs in the order in which they were inserted.
 
-## Installation:
+## Installations
 
 ```shell
 yarn hardhat 
